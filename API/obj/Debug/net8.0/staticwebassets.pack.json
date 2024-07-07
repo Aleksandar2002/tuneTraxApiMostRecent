@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\Tune trax most recent\\API\\wwwroot\\artists\\default.jpg",
+      "PackagePath": "staticwebassets\\artists\\default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\Tune trax most recent\\API\\wwwroot\\trackAudioFiles\\default.mp3",
+      "PackagePath": "staticwebassets\\trackAudioFiles\\default.mp3"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\Tune trax most recent\\API\\wwwroot\\trackAudioFiles\\default2.mp3",
+      "PackagePath": "staticwebassets\\trackAudioFiles\\default2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\kovac\\OneDrive\\Radna površina\\AspProjekat\\Tune trax most recent\\API\\wwwroot\\trackCoverImages\\default.jpg",
+      "PackagePath": "staticwebassets\\trackCoverImages\\default.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
